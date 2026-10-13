@@ -24,11 +24,16 @@ public class ControlJugadorInputSystemOld : MonoBehaviour
     //    transform.position = position;
 
     //}
-    
+
     private void FixedUpdate()
     {
         entradaX = Input.GetAxis("Horizontal");
+        if (fisica != null)
+        {
 
-        fisica.linearVelocity = new Vector2(entradaX * velocidad, fisica.linearVelocity.y);
+            fisica.linearVelocity = new Vector2(entradaX * velocidad, fisica.linearVelocity.y);
+        }
+        else
+            Debug.LogError("El GameObject no tiene asignado un componente Rigidbody2D que es necesario para moverlo");
     }
 }
