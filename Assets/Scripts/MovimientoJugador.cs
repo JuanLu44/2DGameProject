@@ -4,13 +4,24 @@ using UnityEngine.InputSystem;
 [RequireComponent (typeof(Rigidbody2D))]
 public class MovimientoJugador : MonoBehaviour
 {
-
+    [Header("Movimiento")]
     public float velocity;
 
     [SerializeField] private InputActionReference accionMover;
 
+
+    [Header("Salto")]
+    [SerializeField] private InputActionReference accionSaltar;
+
+    public float fuerzaImpulso = 5f;
+    [SerializeField] private LayerMask capaSuelo;
+
+
     private Rigidbody2D fisica;
     private Vector2 entradaX;
+    private bool saltoPendiente;
+    private bool estaTocandoSuelo;
+    private float longitudRayCast = 1f;
 
     private void Awake()
     {
@@ -27,6 +38,13 @@ public class MovimientoJugador : MonoBehaviour
     void Update()
     {
         entradaX = accionMover.action.ReadValue<Vector2>();
+
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, longitudRayCast, capaSuelo);
+
+        if (accionSaltar.action.WasPressedThisFrame() && estaTocandoSuelo)
+        {
+            saltoPendiente = true;
+        }
     }
 
     private void OnEnable()
@@ -39,6 +57,15 @@ public class MovimientoJugador : MonoBehaviour
         }
 
         accionMover.action.Enable();
+
+        if (accionSaltar == null || accionSaltar.action == null)
+        {
+            Debug.LogError("Asigna Mapa de acción Jugador/Saltar en Acción Saltar");
+            enabled = false;
+            return;
+        }
+
+        accionSaltar.action.Enable();
     }
 
     private void OnDisable()
@@ -47,11 +74,23 @@ public class MovimientoJugador : MonoBehaviour
         {
             accionMover.action.Disable();
         }
+
+        if (accionSaltar != null && accionSaltar.action != null)
+        {
+            accionSaltar.action.Disable();
+        }
     }
 
     private void FixedUpdate()
     {
         fisica.linearVelocity = new Vector2(entradaX.x * velocity, fisica.linearVelocity.y);
+
+        if (saltoPendiente) 
+        {
+            fisica.AddForce(Vector2.up * fuerzaImpulso, ForceMode2D.Impulse);
+        }
+
+        saltoPendiente = false;
     }
 
 }
