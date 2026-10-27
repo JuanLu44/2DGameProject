@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System;
 
 [RequireComponent (typeof(Rigidbody2D))]
 public class MovimientoJugador : MonoBehaviour
@@ -18,14 +19,21 @@ public class MovimientoJugador : MonoBehaviour
 
 
     private Rigidbody2D fisica;
+    private SpriteRenderer renderizador;
+    private Animator animador;
     private Vector2 entradaX;
     private bool saltoPendiente;
     private bool estaTocandoSuelo;
     private float longitudRayCast = 1.6f;
+    private float umbralCarrera = 0.1f;
 
     private void Awake()
     {
         fisica = GetComponent<Rigidbody2D>();
+
+        renderizador = GetComponent<SpriteRenderer>();
+
+        animador = GetComponent<Animator>();
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -51,6 +59,25 @@ public class MovimientoJugador : MonoBehaviour
         {
             saltoPendiente = true;
         }
+
+        AnimarJugador();
+    }
+
+    private void AnimarJugador()
+    {
+        if (animador == null)
+            return;
+
+        if (!estaTocandoSuelo)
+        {
+            animador.Play("JugadorSaltando");
+        }
+        else if (Math.Abs(fisica.linearVelocity.x) > umbralCarrera)
+        {
+            animador.Play("JugadorCorriendo");
+        }
+        else
+            animador.Play("JugadorParado");
     }
 
     private void OnEnable()
@@ -97,6 +124,23 @@ public class MovimientoJugador : MonoBehaviour
         }
 
         saltoPendiente = false;
+
+        OrientarSprite();
+    }
+
+    private void OrientarSprite()
+    {
+        if (renderizador == null)
+            return;
+
+        if (fisica.linearVelocity.x > 0)
+        {
+            renderizador.flipX = false;
+        } 
+        else if (fisica.linearVelocity.x < 0)
+        {
+            renderizador.flipX = true;
+        }
     }
 
 }
