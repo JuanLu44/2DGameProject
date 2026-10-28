@@ -4843,7 +4843,7 @@ MonoBehaviour:
     type: 3}
   accionSaltar: {fileID: -8022929172037177413, guid: a246575af4c55e241a886d8d61484eed,
     type: 3}
-  fuerzaImpulso: 5
+  fuerzaImpulso: 7
   capaSuelo:
     serializedVersion: 2
     m_Bits: 64
