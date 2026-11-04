@@ -17,6 +17,9 @@ public class MovimientoJugador : MonoBehaviour
     public float fuerzaImpulso = 5f;
     [SerializeField] private LayerMask capaSuelo;
 
+    [Header("Spawn-Point")]
+    [SerializeField] private Transform spawnPoint;
+
 
     private Rigidbody2D fisica;
     private SpriteRenderer renderizador;
@@ -141,6 +144,21 @@ public class MovimientoJugador : MonoBehaviour
         {
             renderizador.flipX = true;
         }
+    }
+
+    public void ReaparecerJugador()
+    {
+        if (spawnPoint == null)
+        {
+            Debug.LogError(
+                "Asigna un Spawn Point al objeto jugador.", this);
+            enabled = false;
+            return;
+        }
+
+
+        fisica.position = (Vector2)spawnPoint.position;
+        fisica.linearVelocity = Vector2.zero;
     }
 
 }
