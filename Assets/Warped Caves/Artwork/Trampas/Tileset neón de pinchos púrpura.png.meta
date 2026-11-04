@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 955779cea3eabb6449c808044271a25d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3035147924806455072
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_0"
+  - first:
+      213: 3975333166242483093
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_1"
+  - first:
+      213: 7025102388341043399
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_2"
+  - first:
+      213: -2594585004296125184
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_3"
+  - first:
+      213: -3757704255467067829
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_4"
+  - first:
+      213: 8951980885493311108
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_5"
+  - first:
+      213: -347024298458068523
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_6"
+  - first:
+      213: 4555395183254889731
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_7"
+  - first:
+      213: -3057756923239828417
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_8"
+  - first:
+      213: -1742101983559895309
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_9"
+  - first:
+      213: 6815565716270518594
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_10"
+  - first:
+      213: -7404840037274405892
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_11"
+  - first:
+      213: 3435982750560745994
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_12"
+  - first:
+      213: -1567490695502139294
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_13"
+  - first:
+      213: 6514006228259279092
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_14"
+  - first:
+      213: 7468563670257199437
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_15"
+  - first:
+      213: -2021656160692430214
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_16"
+  - first:
+      213: -447992859066090801
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_17"
+  - first:
+      213: 2690576444078461905
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_18"
+  - first:
+      213: 19314628514435282
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_19"
+  - first:
+      213: -3023560437778766463
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_20"
+  - first:
+      213: 8703964480343656572
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_21"
+  - first:
+      213: 1229205182038706005
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_22"
+  - first:
+      213: -4684429107786918321
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_23"
+  - first:
+      213: -8697453100458680928
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_24"
+  - first:
+      213: -2486673976960452059
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_25"
+  - first:
+      213: 6451776826185540919
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_26"
+  - first:
+      213: -7983356873853785625
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_27"
+  - first:
+      213: 6272873797711838498
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_28"
+  - first:
+      213: 8479125710721698367
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_29"
+  - first:
+      213: 7332903381845127259
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_30"
+  - first:
+      213: 3764206911388097475
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_31"
+  - first:
+      213: 8349436611153372796
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_32"
+  - first:
+      213: 2613238254974618271
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_33"
+  - first:
+      213: 4885183810377905942
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_34"
+  - first:
+      213: -8576177303151261672
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_35"
+  - first:
+      213: 5228922423299512950
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_36"
+  - first:
+      213: -1306800874301317501
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_37"
+  - first:
+      213: -8401856920207285249
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_38"
+  - first:
+      213: 5987868459391483386
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_39"
+  - first:
+      213: 8431484980022256158
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_40"
+  - first:
+      213: 1891578891417540679
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_41"
+  - first:
+      213: -1814489346558366308
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_42"
+  - first:
+      213: 2683507767233692307
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_43"
+  - first:
+      213: 5391643352744027486
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_44"
+  - first:
+      213: 4513689869154511393
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_45"
+  - first:
+      213: -4561268417320159226
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_46"
+  - first:
+      213: 3453313575307899838
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_47"
+  - first:
+      213: 8503392984125890304
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_48"
+  - first:
+      213: 9106963390493193722
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_49"
+  - first:
+      213: -8383851532228825645
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_50"
+  - first:
+      213: -8183812559071926629
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_51"
+  - first:
+      213: 8138143134601848513
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_52"
+  - first:
+      213: -2227507464961511104
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_53"
+  - first:
+      213: 3667900615182970904
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_54"
+  - first:
+      213: -5031385918524764277
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_55"
+  - first:
+      213: 5944854347754207100
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_56"
+  - first:
+      213: -3624049798662490573
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_57"
+  - first:
+      213: -1505239006267767231
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_58"
+  - first:
+      213: 1525075222182792388
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_59"
+  - first:
+      213: 4671657753226989393
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_60"
+  - first:
+      213: -7191055804444023951
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_61"
+  - first:
+      213: 7611225920130644248
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_62"
+  - first:
+      213: 9213484008143163795
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_63"
+  - first:
+      213: -6937313888490427056
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_64"
+  - first:
+      213: 3349498634701468985
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_65"
+  - first:
+      213: -8607300335810105303
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_66"
+  - first:
+      213: -538686440520828611
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_67"
+  - first:
+      213: -7524366012981762338
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_68"
+  - first:
+      213: 4317651562637216659
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_69"
+  - first:
+      213: 4271963917187359538
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_70"
+  - first:
+      213: 7176295557098415660
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_71"
+  - first:
+      213: 2576090106228928141
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_72"
+  - first:
+      213: -4445586394318183932
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_73"
+  - first:
+      213: -4006041712639148622
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_74"
+  - first:
+      213: -4296663035550115253
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_75"
+  - first:
+      213: -7015053253208637770
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_76"
+  - first:
+      213: -1741356154283932895
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_77"
+  - first:
+      213: 1938576492828993887
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_78"
+  - first:
+      213: -6324847020007578725
+    second: "Tileset ne\xF3n de pinchos p\xFArpura_79"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_0"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 678
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0b5251b0df0e5d0800000000000000
+      internalID: -3035147924806455072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_1"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 691
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b46b5d3783b2730800000000000000
+      internalID: 3975333166242483093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_2"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 707
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0f0dfc66d2e7160800000000000000
+      internalID: 7025102388341043399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_3"
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 707
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005cf5f6fae2efbd0800000000000000
+      internalID: -2594585004296125184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_4"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 689
+        width: 74
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4669e983e3f9dbc0800000000000000
+      internalID: -3757704255467067829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_5"
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 564
+        width: 120
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4866aeb8f23db3c70800000000000000
+      internalID: 8951980885493311108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_6"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 691
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94af93d3f1f2bf0800000000000000
+      internalID: -347024298458068523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_7"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 661
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305ee6d98c3083f30800000000000000
+      internalID: 4555395183254889731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_8"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 642
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f347ccc674aa095d0800000000000000
+      internalID: -3057756923239828417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_9"
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 657
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b86bd97fc2d7e0800000000000000
+      internalID: -1742101983559895309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_10"
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 590
+        width: 146
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24192a598e0c59e50800000000000000
+      internalID: 6815565716270518594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_11"
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 691
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf33ba7f739bc3990800000000000000
+      internalID: -7404840037274405892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_12"
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 608
+        width: 204
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afa856b101faf20800000000000000
+      internalID: 3435982750560745994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_13"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 659
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2607dd174872f3ae0800000000000000
+      internalID: -1567490695502139294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_14"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 661
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f09314e626666a50800000000000000
+      internalID: 6514006228259279092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_15"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 675
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d496114861ba5a760800000000000000
+      internalID: 7468563670257199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinchos_Pared_Izquierda
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 335
+        width: 279
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 2, z: 72, w: 29}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a92fbde62a1f3e0800000000000000
+      internalID: -2021656160692430214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 650
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca34754ed868c9f0800000000000000
+      internalID: -447992859066090801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_18"
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 622
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d394564509d65520800000000000000
+      internalID: 2690576444078461905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_19"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 642
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d052936d8e944000800000000000000
+      internalID: 19314628514435282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_20"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 628
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185a5452dc72a06d0800000000000000
+      internalID: -3023560437778766463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_21"
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 630
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78408c4491bac870800000000000000
+      internalID: 8703964480343656572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_22"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 658
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5578c77b9930f0110800000000000000
+      internalID: 1229205182038706005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_23"
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 624
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465cdeab809dfeb0800000000000000
+      internalID: -4684429107786918321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_24"
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 574
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad5a887c707c4780800000000000000
+      internalID: -8697453100458680928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_25"
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 658
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a7013613f8d7dd0800000000000000
+      internalID: -2486673976960452059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinchos_Techo
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 197
+        width: 472
+        height: 466
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 298, z: 70, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735e2e627d0598950800000000000000
+      internalID: 6451776826185540919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_27"
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 562
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9a5ca883b653190800000000000000
+      internalID: -7983356873853785625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_28"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 626
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d3871eb79bd0750800000000000000
+      internalID: 6272873797711838498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_29"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 640
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac279d8e7eba570800000000000000
+      internalID: 8479125710721698367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_30"
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 642
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50b32f36c4b3c560800000000000000
+      internalID: 7332903381845127259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_31"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 641
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb9b560e362d3430800000000000000
+      internalID: 3764206911388097475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_32"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 609
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7620725c582fd370800000000000000
+      internalID: 8349436611153372796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_33"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 621
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a493de856144420800000000000000
+      internalID: 2613238254974618271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_34"
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 572
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177010fac8abc340800000000000000
+      internalID: 4885183810377905942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_35"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 594
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818c6ea6e2c4bf880800000000000000
+      internalID: -8576177303151261672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_36"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 594
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a97de6d3dd09840800000000000000
+      internalID: 5228922423299512950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_37"
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 610
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e991f478f4ddde0800000000000000
+      internalID: -1306800874301317501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_38"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 596
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3236165ab966b80800000000000000
+      internalID: -8401856920207285249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinchos_en_Agujero
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 373
+        width: 622
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 61, w: 63}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd7bc383ae291350800000000000000
+      internalID: 5987868459391483386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_40"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 375
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12a44bdae6a20570800000000000000
+      internalID: 8431484980022256158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinchos_Pequenos
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 355
+        width: 201
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 3, y: 21, z: 3, w: 2}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748d19fcafc304a10800000000000000
+      internalID: 1891578891417540679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pinchos_Largos
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 376
+        width: 429
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 1, z: 18, w: 20}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d68a98d83a1d6e0800000000000000
+      internalID: -1814489346558366308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_43"
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 434
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39247f1b81cbd3520800000000000000
+      internalID: 2683507767233692307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_44"
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 415
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5567eb2017f2da40800000000000000
+      internalID: 5391643352744027486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_45"
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 373
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12aeb3d7509d3ae30800000000000000
+      internalID: 4513689869154511393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_46"
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 379
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6087c648a8e13b0c0800000000000000
+      internalID: -4561268417320159226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_47"
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 383
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3f24a7662acef20800000000000000
+      internalID: 3453313575307899838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_48"
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 353
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f5f5cbdde120670800000000000000
+      internalID: 8503392984125890304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_49"
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 325
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af575d0f3fe626e70800000000000000
+      internalID: 9106963390493193722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_50"
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 337
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde2e3737396ab80800000000000000
+      internalID: -8383851532228825645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_51"
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 356
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96232456d14d6e80800000000000000
+      internalID: -8183812559071926629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_52"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 329
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c62a3d201e70f070800000000000000
+      internalID: 8138143134601848513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_53"
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 315
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041307033cd4611e0800000000000000
+      internalID: -2227507464961511104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_54"
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 337
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810fa671d2007e230800000000000000
+      internalID: 3667900615182970904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_55"
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 316
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fcd6e1a2dec2ab0800000000000000
+      internalID: -5031385918524764277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_56"
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 321
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c777357388d508250800000000000000
+      internalID: 5944854347754207100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_57"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 280
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336756eb8e9c4bdc0800000000000000
+      internalID: -3624049798662490573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_58"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 274
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146095159115c1be0800000000000000
+      internalID: -1505239006267767231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Pinchos_Grandes
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 91
+        width: 224
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 4, z: 9, w: 38}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc84f995d72a2510800000000000000
+      internalID: 1525075222182792388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_60"
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 289
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f4b4d99ff05d040800000000000000
+      internalID: 4671657753226989393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_61"
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 296
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736a1088dc343c90800000000000000
+      internalID: -7191055804444023951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_62"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 284
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819f1aaf5a180a960800000000000000
+      internalID: 7611225920130644248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_63"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 274
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919d19e3eedcdf70800000000000000
+      internalID: 9213484008143163795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Pinchos_MGrande
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 91
+        width: 257
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 5, z: 36, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05de42d16c5b9bf90800000000000000
+      internalID: -6937313888490427056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_65"
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 271
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9357909034fcb7e20800000000000000
+      internalID: 3349498634701468985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Pinchos_Medianos
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 35
+        width: 233
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 60, z: 13, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92030f0b2f9bc8880800000000000000
+      internalID: -8607300335810105303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_67"
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 250
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39bf6359833688f0800000000000000
+      internalID: -538686440520828611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_68"
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 250
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6233c1af4149790800000000000000
+      internalID: -7524366012981762338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Pinchos_Pequenos
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 214
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 0, z: 3, w: 10}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bc6e668316beb30800000000000000
+      internalID: 4317651562637216659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_70"
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 112
+        width: 91
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332d318c80194b30800000000000000
+      internalID: 4271963917187359538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_71"
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 192
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26a01c99c2579360800000000000000
+      internalID: 7176295557098415660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_sin_Pinchos
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 91
+        width: 232
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 5, z: 13, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6c2b8d4c10c320800000000000000
+      internalID: 2576090106228928141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_73"
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 178
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ea546aba1e42c0800000000000000
+      internalID: -4445586394318183932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_74"
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 144
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdfeba894ea768c0800000000000000
+      internalID: -4006041712639148622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_75"
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 99
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4adb7edbbf2f54c0800000000000000
+      internalID: -4296663035550115253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_76"
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 142
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6befc0acb3685ae90800000000000000
+      internalID: -7015053253208637770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_77"
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 152
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1234774cdc575d7e0800000000000000
+      internalID: -1741356154283932895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_78"
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 9
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59aef89c0537ea10800000000000000
+      internalID: 1938576492828993887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tileset ne\xF3n de pinchos p\xFArpura_79"
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 79
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a2c15521a938a0800000000000000
+      internalID: -6324847020007578725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9e9086f87934d8c44af0231e08383bd3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pinchos_Largos: -1814489346558366308
+      Pinchos_Pared_Izquierda: -2021656160692430214
+      Pinchos_Pequenos: 1891578891417540679
+      Pinchos_Techo: 6451776826185540919
+      Pinchos_en_Agujero: 5987868459391483386
+      Plataforma_Pinchos_Grandes: 1525075222182792388
+      Plataforma_Pinchos_MGrande: -6937313888490427056
+      Plataforma_Pinchos_Medianos: -8607300335810105303
+      Plataforma_Pinchos_Pequenos: 4317651562637216659
+      Plataforma_sin_Pinchos: 2576090106228928141
+      "Tileset ne\xF3n de pinchos p\xFArpura_0": -3035147924806455072
+      "Tileset ne\xF3n de pinchos p\xFArpura_1": 3975333166242483093
+      "Tileset ne\xF3n de pinchos p\xFArpura_10": 6815565716270518594
+      "Tileset ne\xF3n de pinchos p\xFArpura_11": -7404840037274405892
+      "Tileset ne\xF3n de pinchos p\xFArpura_12": 3435982750560745994
+      "Tileset ne\xF3n de pinchos p\xFArpura_13": -1567490695502139294
+      "Tileset ne\xF3n de pinchos p\xFArpura_14": 6514006228259279092
+      "Tileset ne\xF3n de pinchos p\xFArpura_15": 7468563670257199437
+      "Tileset ne\xF3n de pinchos p\xFArpura_17": -447992859066090801
+      "Tileset ne\xF3n de pinchos p\xFArpura_18": 2690576444078461905
+      "Tileset ne\xF3n de pinchos p\xFArpura_19": 19314628514435282
+      "Tileset ne\xF3n de pinchos p\xFArpura_2": 7025102388341043399
+      "Tileset ne\xF3n de pinchos p\xFArpura_20": -3023560437778766463
+      "Tileset ne\xF3n de pinchos p\xFArpura_21": 8703964480343656572
+      "Tileset ne\xF3n de pinchos p\xFArpura_22": 1229205182038706005
+      "Tileset ne\xF3n de pinchos p\xFArpura_23": -4684429107786918321
+      "Tileset ne\xF3n de pinchos p\xFArpura_24": -8697453100458680928
+      "Tileset ne\xF3n de pinchos p\xFArpura_25": -2486673976960452059
+      "Tileset ne\xF3n de pinchos p\xFArpura_27": -7983356873853785625
+      "Tileset ne\xF3n de pinchos p\xFArpura_28": 6272873797711838498
+      "Tileset ne\xF3n de pinchos p\xFArpura_29": 8479125710721698367
+      "Tileset ne\xF3n de pinchos p\xFArpura_3": -2594585004296125184
+      "Tileset ne\xF3n de pinchos p\xFArpura_30": 7332903381845127259
+      "Tileset ne\xF3n de pinchos p\xFArpura_31": 3764206911388097475
+      "Tileset ne\xF3n de pinchos p\xFArpura_32": 8349436611153372796
+      "Tileset ne\xF3n de pinchos p\xFArpura_33": 2613238254974618271
+      "Tileset ne\xF3n de pinchos p\xFArpura_34": 4885183810377905942
+      "Tileset ne\xF3n de pinchos p\xFArpura_35": -8576177303151261672
+      "Tileset ne\xF3n de pinchos p\xFArpura_36": 5228922423299512950
+      "Tileset ne\xF3n de pinchos p\xFArpura_37": -1306800874301317501
+      "Tileset ne\xF3n de pinchos p\xFArpura_38": -8401856920207285249
+      "Tileset ne\xF3n de pinchos p\xFArpura_4": -3757704255467067829
+      "Tileset ne\xF3n de pinchos p\xFArpura_40": 8431484980022256158
+      "Tileset ne\xF3n de pinchos p\xFArpura_43": 2683507767233692307
+      "Tileset ne\xF3n de pinchos p\xFArpura_44": 5391643352744027486
+      "Tileset ne\xF3n de pinchos p\xFArpura_45": 4513689869154511393
+      "Tileset ne\xF3n de pinchos p\xFArpura_46": -4561268417320159226
+      "Tileset ne\xF3n de pinchos p\xFArpura_47": 3453313575307899838
+      "Tileset ne\xF3n de pinchos p\xFArpura_48": 8503392984125890304
+      "Tileset ne\xF3n de pinchos p\xFArpura_49": 9106963390493193722
+      "Tileset ne\xF3n de pinchos p\xFArpura_5": 8951980885493311108
+      "Tileset ne\xF3n de pinchos p\xFArpura_50": -8383851532228825645
+      "Tileset ne\xF3n de pinchos p\xFArpura_51": -8183812559071926629
+      "Tileset ne\xF3n de pinchos p\xFArpura_52": 8138143134601848513
+      "Tileset ne\xF3n de pinchos p\xFArpura_53": -2227507464961511104
+      "Tileset ne\xF3n de pinchos p\xFArpura_54": 3667900615182970904
+      "Tileset ne\xF3n de pinchos p\xFArpura_55": -5031385918524764277
+      "Tileset ne\xF3n de pinchos p\xFArpura_56": 5944854347754207100
+      "Tileset ne\xF3n de pinchos p\xFArpura_57": -3624049798662490573
+      "Tileset ne\xF3n de pinchos p\xFArpura_58": -1505239006267767231
+      "Tileset ne\xF3n de pinchos p\xFArpura_6": -347024298458068523
+      "Tileset ne\xF3n de pinchos p\xFArpura_60": 4671657753226989393
+      "Tileset ne\xF3n de pinchos p\xFArpura_61": -7191055804444023951
+      "Tileset ne\xF3n de pinchos p\xFArpura_62": 7611225920130644248
+      "Tileset ne\xF3n de pinchos p\xFArpura_63": 9213484008143163795
+      "Tileset ne\xF3n de pinchos p\xFArpura_65": 3349498634701468985
+      "Tileset ne\xF3n de pinchos p\xFArpura_67": -538686440520828611
+      "Tileset ne\xF3n de pinchos p\xFArpura_68": -7524366012981762338
+      "Tileset ne\xF3n de pinchos p\xFArpura_7": 4555395183254889731
+      "Tileset ne\xF3n de pinchos p\xFArpura_70": 4271963917187359538
+      "Tileset ne\xF3n de pinchos p\xFArpura_71": 7176295557098415660
+      "Tileset ne\xF3n de pinchos p\xFArpura_73": -4445586394318183932
+      "Tileset ne\xF3n de pinchos p\xFArpura_74": -4006041712639148622
+      "Tileset ne\xF3n de pinchos p\xFArpura_75": -4296663035550115253
+      "Tileset ne\xF3n de pinchos p\xFArpura_76": -7015053253208637770
+      "Tileset ne\xF3n de pinchos p\xFArpura_77": -1741356154283932895
+      "Tileset ne\xF3n de pinchos p\xFArpura_78": 1938576492828993887
+      "Tileset ne\xF3n de pinchos p\xFArpura_79": -6324847020007578725
+      "Tileset ne\xF3n de pinchos p\xFArpura_8": -3057756923239828417
+      "Tileset ne\xF3n de pinchos p\xFArpura_9": -1742101983559895309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
