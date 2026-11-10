@@ -2900,7 +2900,7 @@ GameObject:
   - component: {fileID: 791093483}
   - component: {fileID: 791093484}
   m_Layer: 0
-  m_Name: Pinchos_Largos (1)
+  m_Name: Pinchos_Largos2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23323,7 +23323,7 @@ GameObject:
   - component: {fileID: 1207712921}
   - component: {fileID: 1207712922}
   m_Layer: 0
-  m_Name: Plataforma_Pinchos_MGrande (3)
+  m_Name: Plataforma_Pinchos_MGrande4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24553,6 +24553,9 @@ MonoBehaviour:
   spawnPoint: {fileID: 1766854236}
   puntuacion: 0
   vidas: 3
+  segundosInvulnerable: 1
+  tiempoEmpleado: 0
+  tiempoLimiteNivel: 100
 --- !u!95 &1445682919
 Animator:
   serializedVersion: 7
@@ -27532,7 +27535,7 @@ GameObject:
   - component: {fileID: 1765528324}
   - component: {fileID: 1765528325}
   m_Layer: 0
-  m_Name: Plataforma_Pinchos_MGrande (2)
+  m_Name: Plataforma_Pinchos_MGrande3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28070,7 +28073,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1927008748
 Transform:
   m_ObjectHideFlags: 0
@@ -28103,7 +28106,7 @@ GameObject:
   - component: {fileID: 1980245887}
   - component: {fileID: 1980245888}
   m_Layer: 0
-  m_Name: Plataforma_Pinchos_MGrande (1)
+  m_Name: Plataforma_Pinchos_MGrande2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28502,6 +28505,9 @@ MonoBehaviour:
   spawnPoint: {fileID: 0}
   puntuacion: 0
   vidas: 3
+  segundosInvulnerable: 1
+  tiempoEmpleado: 0
+  tiempoLimiteNivel: 100
 --- !u!114 &2040329686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29404,7 +29410,7 @@ GameObject:
   - component: {fileID: 2130940963}
   - component: {fileID: 2130940964}
   m_Layer: 0
-  m_Name: Pinchos_Largos (2)
+  m_Name: Pinchos_Largos3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
