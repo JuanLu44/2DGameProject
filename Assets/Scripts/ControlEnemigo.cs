@@ -59,7 +59,7 @@ public class ControlEnemigo : MonoBehaviour
 
         if(colision.gameObject.TryGetComponent(out MovimientoJugador jugador))
         {
-            jugador.ReaparecerJugador();
+            jugador.QuitarVida();
         }
         else
         {

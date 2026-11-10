@@ -10,6 +10,7 @@ public class Pinchos : MonoBehaviour
         if (colision.gameObject.TryGetComponent(out MovimientoJugador jugador))
         {
             jugador.ReaparecerJugador();
+            jugador.QuitarVida();
         }
         else
         {
