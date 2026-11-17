@@ -12,6 +12,8 @@ public class ControlColeccionable : MonoBehaviour
         {
             //Llamar al método público que incrementa la puntuación.
             jugador.IncrementarPuntos(cantidad);
+            jugador.DecrementarColeccionables();
+
             Destroy(gameObject);
         }
         else

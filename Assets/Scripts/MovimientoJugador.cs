@@ -22,18 +22,24 @@ public class MovimientoJugador : MonoBehaviour
 
     [Header("Puntuación")]
     [SerializeField] private int puntuacion;
+    [SerializeField] private int coleccionablesRestantes;
 
     [Header("Salud")]
     [SerializeField] private int vidas = 3;
+    [SerializeField, Min(0.01f)] private float segundosInvulnerable = 1f;
     public int Vidas => vidas;
     private Color colorOriginal;
-    [SerializeField, Min(0.01f)] private float segundosInvulnerable = 1f;
-
+    
     [Header("Tiempo")]
-    private float tiempoInicio;
-    private float tiempoReal;
     [SerializeField] private int tiempoEmpleado;
     [SerializeField, Min(1)] private int tiempoLimiteNivel = 100;
+    private float tiempoInicio;
+    private float tiempoReal;
+
+    [Header("Canvas")]
+    [SerializeField] private Canvas canvasInterfaz;
+    private ControlHUD hud;
+    
 
     private Rigidbody2D fisica;
     private SpriteRenderer renderizador;
@@ -62,6 +68,8 @@ public class MovimientoJugador : MonoBehaviour
             Debug.LogError("El jugador no tiene asignado el objeto Sprite Renderer.");
 
         tiempoInicio = Time.time;
+
+        InicializaHUD();
     }
 
     // Update is called once per frame
@@ -76,10 +84,35 @@ public class MovimientoJugador : MonoBehaviour
         AnimarJugador();
     }
 
+    private void InicializaHUD()
+    {
+        if (canvasInterfaz != null)
+        {
+            hud = canvasInterfaz.GetComponent<ControlHUD>();
+        }
+        else
+            Debug.LogError("Asigna el objeto Canvas con el componente ControlHUD al atributo Canvas del jugador.");
+
+        if (hud != null)
+        {
+            hud.SetVidas(vidas);
+            hud.SetTiempo(tiempoLimiteNivel);
+            coleccionablesRestantes = GameObject.FindGameObjectsWithTag("Coleccionable").Length;
+            hud.SetColeccionables(coleccionablesRestantes);
+        }
+        else
+            Debug.LogError("Asigna el objeto Canvas con el componente ControlHUD al atributo Canvas del jugador.");
+
+
+    }   
+
+
     private void ComprobarFinJuegoTiempo()
     {
         tiempoReal = Time.time - tiempoInicio;
         tiempoEmpleado = Mathf.FloorToInt(tiempoReal);
+        int segundosRestantes = Mathf.CeilToInt(tiempoLimiteNivel - tiempoReal);
+        hud.SetTiempo(segundosRestantes);
 
         if (tiempoEmpleado >= tiempoLimiteNivel)
         {
@@ -213,7 +246,9 @@ public class MovimientoJugador : MonoBehaviour
 
     public void QuitarVida()
     {
+
         vidas--;
+        hud.SetVidas(vidas);
 
         if (renderizador != null)
         {
@@ -227,6 +262,15 @@ public class MovimientoJugador : MonoBehaviour
         }
 
         Invoke(nameof(HacerVulnerable), segundosInvulnerable);
+    }
+
+    public void DecrementarColeccionables()
+    {
+        if (coleccionablesRestantes <= 0) return;
+
+        coleccionablesRestantes--;
+
+        hud.SetColeccionables(coleccionablesRestantes);
     }
 
     private void HacerVulnerable()
