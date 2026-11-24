@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using System;
+using UnityEngine.SceneManagement;
 
 [RequireComponent (typeof(Rigidbody2D))]
 public class MovimientoJugador : MonoBehaviour
@@ -39,6 +40,13 @@ public class MovimientoJugador : MonoBehaviour
     [Header("Canvas")]
     [SerializeField] private Canvas canvasInterfaz;
     private ControlHUD hud;
+
+    private ControlDatosJuego controlDatosJuego;
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip saltoSonido;
+    [SerializeField] private AudioClip vidasSonido;
+    private AudioSource efectoSonido;
     
 
     private Rigidbody2D fisica;
@@ -57,6 +65,11 @@ public class MovimientoJugador : MonoBehaviour
         renderizador = GetComponent<SpriteRenderer>();
 
         animador = GetComponent<Animator>();
+
+        efectoSonido = GetComponent<AudioSource>();
+
+        if (efectoSonido == null)
+            efectoSonido = gameObject.AddComponent<AudioSource>();
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -68,6 +81,14 @@ public class MovimientoJugador : MonoBehaviour
             Debug.LogError("El jugador no tiene asignado el objeto Sprite Renderer.");
 
         tiempoInicio = Time.time;
+
+        controlDatosJuego = ControlDatosJuego.Instancia;
+        if (controlDatosJuego == null)
+        {
+            Debug.LogError("Añade Datos Juego al nivel");
+        }
+        else
+            controlDatosJuego.ReiniciarPartida();
 
         InicializaHUD();
     }
@@ -202,6 +223,9 @@ public class MovimientoJugador : MonoBehaviour
         if (saltoPendiente)
         {
             fisica.AddForce(Vector2.up * fuerzaImpulso, ForceMode2D.Impulse);
+
+            if (saltoSonido != null)
+                efectoSonido.PlayOneShot(saltoSonido);
         }
 
         saltoPendiente = false;
@@ -248,6 +272,10 @@ public class MovimientoJugador : MonoBehaviour
     {
 
         vidas--;
+
+        if (vidasSonido != null)
+            efectoSonido.PlayOneShot(vidasSonido);
+
         hud.SetVidas(vidas);
 
         if (renderizador != null)
@@ -282,8 +310,25 @@ public class MovimientoJugador : MonoBehaviour
 
     private void FinJuego()
     {
-        Debug.Log("Juego finalizado.");
-        gameObject.SetActive(false);
+        if(controlDatosJuego == null)
+        {
+            Debug.LogError("Falta el objeto Control Datos Juego para poder guardar el resultado de la partida", this);
+            return;
+        }
+
+        controlDatosJuego.GuardarResultado(false, 0);
+        SceneManager.LoadScene("FinNivel");
+    }
+
+    public void Victoria()
+    {
+        puntuacion = vidas * 100 + Mathf.Max(0, tiempoLimiteNivel - tiempoEmpleado);
+
+        saltoPendiente = false;
+        fisica.linearVelocity = Vector2.zero;
+
+        controlDatosJuego.GuardarResultado(true, puntuacion);
+        SceneManager.LoadScene("FinNivel");
     }
 
 }

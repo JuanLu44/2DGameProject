@@ -165,3 +165,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ControlColeccionable
   cantidad: 2
+  recogerSonido: {fileID: 8300000, guid: 2de9f2dbcb79b7f4594540ff4619c8ab, type: 3}
